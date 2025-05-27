@@ -1,8 +1,8 @@
 ## About Me:
-- 🔭 I'm a sophomore at UMass Amherst majoring in Computer Science, minoring in Business and pursuing a Letter of Specialization in Creative Writing. I'm currently delving into research with the Early Research Scholars Program (ERSP).
+- 🔭 I'm a sophomore at UMass Amherst majoring in Computer Science, minoring in Business and pursuing a Letter of Specialization in Creative Writing. I'm delving into research with the Early Research Scholars Program (ERSP).
 - 🌱 I’m currently learning JavaScript, HTML and CSS. 
 - 🤝 I’m looking to collaborate on open-source projects that have potential real-life implications and can be used for societal good.
-- 🆘 I'm actively looking for opportunities in Product and Fintech.
+- 🆘 I'm actively seeking opportunities in Product and Fintech.
 - ⚡ Fun fact: My analytical side is complemented by my creative edge- I'm a published author. Bringing together linguistics and tech is my niche.
 - 💬 Feel free to ask me about my experience as Undergraduate Course Assistant and IT Intern, running a student-led tech club, or publishing a book for that matter!
 
