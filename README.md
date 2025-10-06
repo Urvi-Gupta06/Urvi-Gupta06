@@ -1,10 +1,10 @@
 ## About Me:
-- 🔭 I'm a rising sophomore at UMass Amherst majoring in Computer Science, minoring in Business and pursuing a Letter of Specialization in Creative Writing. I'm delving into research with the Early Research Scholars Program (ERSP).
-- 🌱 I’m currently learning JavaScript.
+- 🔭 I'm a sophomore at UMass Amherst majoring in Computer Science, minoring in Business and pursuing a Letter of Specialization in Creative Writing. I'm an Early Research Scholars Program (ERSP) fellow at the Laboratory for Advanced System Software. I'm also a Product Manager at BUILD UMass working on an AI tool for STEMPlore, a non-profit educational platform. 
+- 🌱 I’m currently learning ML foundations through the AI4ALL Ignite Program. 
 - 🤝 I’m looking to collaborate on open-source projects that have potential real-life implications and can be used for societal good.
 - 🆘 I have a keen interest in roles in Fintech and Product, at the junction of tech and business. That being said, I'm actively seeking volunteer/internship opportunities and dedicated to adding value to the organization, irrespective of the role.
 - ⚡ Fun fact: My analytical side is complemented by my creative edge- I'm a published author. Bringing together linguistics and tech is my niche.
-- 💬 Feel free to ask me about my experience as Undergraduate Course Assistant and IT Intern, running a student-led tech club, or publishing a book for that matter!
+- 💬 Feel free to ask me about my experience as Undergraduate Course Assistant and IT Intern, running student-led tech clubs, or publishing a book for that matter!
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/urvi-gupta-266b18302/)
