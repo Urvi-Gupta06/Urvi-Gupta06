@@ -1,8 +1,8 @@
 ## About Me:
-- 🔭 I'm a junior pursuing CS, business, and Creative Writing at UMass Amherst. I was previously an AI Intern at the Commonwealth of Massachusetts and Undergrad Researcher at NSF CoDec. 
+- 🔭 I'm a junior at UMass Amherst pursuing CS, business, and Creative Writing. I was previously an AI Intern at the Commonwealth of Massachusetts and Undergrad Researcher at NSF CoDec. 
 - 🌱 I’m currently learning about and have a keen interest in solutions architecture, GenAI, product, and AI policy. 
-- 🤝 I’m looking to collaborate on scalable projects that havereal-life impact. 
-- ⚡ Fun fact, my analytical side is complemented by my creative edge- I'm a published author!
+- 🤝 I’m looking to collaborate on scalable projects that have real-life impact. 
+- ⚡ Fun fact, my analytical side is complemented by my creative edge: I'm a published author!
 - 💬 Feel free to reach out at: urvigupta.cs@gmail.com
 
 ## Socials:
